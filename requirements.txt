@@ -6,4 +6,5 @@ tiktoken
 openai
 ipywidgets
 matplotlib
-pinecone
+pinecone-client
+pypdf
