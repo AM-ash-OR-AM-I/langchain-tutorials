@@ -1,4 +1,4 @@
-### 1. Explain the feelings of respect,  glory, reverence, and gratitude.
+### 1  1. Explain the feelings of respect,  glory, reverence, and gratitude.
 Respect is a feeling of valuing and acknowledging the worth and importance of someone or something in a relationship. It is a continuous feeling that exists when we understand and appreciate the role and significance of the other person.
 
 Glory, or gaurav, is the feeling of admiration and honor towards someone who has put in efforts to achieve excellence. It is a sense of pride and respect for their dedication and accomplishments.
@@ -390,5 +390,41 @@ Prosperity is defined as the feeling of having or producing more than the requir
 ### 75. Define “affection”. How does affection lead to harmony in the society?
 Affection is the feeling of being related to the other and recognizing that both parties want to make each other happy. Affection leads to harmony in society because it creates a sense of connectedness and recognition of trust and respect in relationships. When there is affection, people are more likely to work towards mutual fulfillment and improve understanding, leading to harmonious interactions and a foundation for an undivided human race.
  - Source: [185, 186, 187, 191]
+
+
+### Explain, basic guidelines to be followed for Universal Human values Education.
+The basic guidelines for universal human values education include the following: 
+1. The values taught should be universally applicable to all human beings and true at all times and places.
+2. The values should be rational and based on reasoning, not on blind beliefs or sermons.
+3. The values should be natural and acceptable to all human beings, leading to fulfillment and happiness.
+4. The values should be verifiable, meaning that individuals should be able to verify their truth and effectiveness through personal experience.
+5. Value education should encompass all dimensions of life, including thought, behavior, work, and understanding, and should be applicable at all levels, including individual, family, society, and nature.
+6. The ultimate goal of value education is to lead to harmony within oneself, with others, and with nature.
+ - Source: [41, 44, 1, 42]
+
+
+### What is reverence and when do we show reverence to others?
+Reverence is the feeling of acceptance of excellence in others. We show reverence to others when we see that they have achieved excellence, which means understanding and living in harmony at all levels of their life and ensuring continuity of happiness.
+ - Source: [178, 184, 99, 188]
+
+
+### Our constant need for external validation is deeply connected to effects of peer pressure on us. - Do you support this proposal? Give reasons for your claim. 
+I don't know.
+ - Source: [25, 54, 54, 57]
+
+
+### Why do we feel the need to conform and validated by others?
+We feel the need to conform and be validated by others because our desires and aspirations are influenced by external factors. This lack of confidence in our own desires leads us to seek validation from others in order to feel confident. Our source of self-confidence becomes relative to how others perceive us, rather than being absolute. Additionally, the conflict between our desires and our natural acceptance causes unhappiness and tension, further driving us to seek validation from others.
+ - Source: [137, 140, 166, 187]
+
+
+### Do you think that human beings are sum -total of the ‘self’ and the ‘body’? Explain your answer using examples.
+Yes, human beings are the sum-total of the 'self' and the 'body'. The 'self' represents the consciousness, emotions, and desires of an individual, while the 'body' represents the physical form and material needs. Both the 'self' and the 'body' are essential components of a human being and cannot be separated. For example, when we feel hungry, it is the body's need for nourishment, but the decision to eat and the experience of satisfaction or pleasure comes from the 'self'. Similarly, when we feel happy or sad, it is the 'self' experiencing emotions, but the physical expressions of smiling or crying come from the body.
+ - Source: [93, 101, 158, 95]
+
+
+### Is Aspiration just Continuos happiness and prosperity? If yes, then what about when someone says I aspire to be a billionare?
+No, aspiration is not just continuous happiness and prosperity. While continuous happiness and prosperity may be basic human aspirations, individuals can have other aspirations as well, such as aspiring to be a billionaire. Aspiration can encompass a wide range of goals and desires, and it is not limited to just happiness and prosperity.
+ - Source: [67, 61, 65, 67]
 
 
